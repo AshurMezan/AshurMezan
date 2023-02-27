@@ -34,6 +34,7 @@ Telegram: https://t.me/ashurmezan
 [Git — система контроля версий](pdf/certificateGIT.pdf)
 
 ## Тренировка по HTML5 и CSS3
+
 [Первый макет](https://ashurmezan.github.io/Ashur-Mezan-Training-website/)
 [Второй макет](https://ashurmezan.github.io/training-site-2/)
 
