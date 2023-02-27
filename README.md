@@ -19,7 +19,7 @@ Telegram: https://t.me/ashurmezan
     - написан **чек-лист** проверки функционала ЛК сайта 
     - проведено **тестирование ТЗ** по процессу восстановления пароля
     - на основе ТЗ выше, создал набор из [**20 тест-кейсов**](https://docs.google.com/spreadsheets/d/1T1QCiOia6EQ_iDKpoz7vM6OOI4tZ3TTeW9Si1Mlvlsw/edit#gid=0)
-    - оформлено **7 баг-репортов** на дефекты в функционале поиска и отзывов на товар
+    - оформлено **6 баг-репортов** на дефекты в функционале поиска и отзывов на товар
     - проведено **тестирование верстки** и **изучение структуры POST запросов** при помощи **DevTools**
  
 [Больше моих проектов](https://github.com/AshurMezan?tab=repositories) 
@@ -35,7 +35,7 @@ Telegram: https://t.me/ashurmezan
 
 ## Тренировка по HTML5 и CSS3
 
-[Первый макет](https://ashurmezan.github.io/Ashur-Mezan-Training-website/)
+[Первый макет](https://ashurmezan.github.io/Ashur-Mezan-Training-website/)  
 [Второй макет](https://ashurmezan.github.io/training-site-2/)
 
 ## Задачи по python
