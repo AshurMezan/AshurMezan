@@ -30,7 +30,7 @@ Telegram: https://t.me/ashurmezan
 [Ручное тестирование вебприложений](pdf/Manual%20testing%20of%20web%20applications.pdf)  
 [Java для тестировщиков](pdf/certificateJAVA.pdf)
 
-[Основы верстки сайта](pdf/certificateHTML.pdf)
+[Основы верстки сайта](pdf/certificateHTML.pdf)  
 [Git — система контроля версий](pdf/certificateGIT.pdf)
 
 ## Тренировка по HTML5 и CSS3
