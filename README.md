@@ -1,7 +1,7 @@
 # Обо мне
 
 Добрый день!  
-Я начинающий тестировщик. Знаком с java и python, в свободное время практикуюсь в вёрстке.
+Я, Лев Гуляев, начинающий тестировщик. Знаком с java и python, в свободное время практикуюсь в вёрстке.
 
 # Контакты
      
@@ -43,5 +43,4 @@ Telegram: https://t.me/ashurmezan
 [Переменные](https://github.com/AshurMezan/skillbox-python-Task-1/tree/main/skillbox%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-1)
 
 ## Тренировка по java
-[Калькулятор](https://github.com/AshurMezan/java-calculator)  
-[Сканер QR-кодов](https://github.com/AshurMezan/android-studio-scanner-QR-cod)
+[Калькулятор](https://github.com/AshurMezan/java-calculator)
