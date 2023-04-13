@@ -40,7 +40,7 @@ Telegram: https://t.me/ashurmezan
 [Второй макет](https://ashurmezan.github.io/training-site-2/)
 
 ## Тренировка по python
-[Переменные](https://github.com/AshurMezan/skillbox-python-Task-1/tree/main/skillbox%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-1)
+[Консольное приложение ToDo](https://github.com/AshurMezan/python-TuDo)
 
 ## Тренировка по java
 [Калькулятор](https://github.com/AshurMezan/java-calculator)  
