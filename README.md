@@ -27,7 +27,7 @@ Telegram: https://t.me/ashurmezan
 # Сертификаты
 
 [Тестировщик ПО](pdf/certificateQA.pdf)  
-[Ручное тестирование вебприложений](pdf/Manual%20testing%20of%20web%20applications.pdf)  
+[Ручное тестирование вебприложений](https://github.com/AshurMezan/AshurMezan/blob/main/pdf/Manual%20testing%20of%20web%20applications.pdf)  
 [Java для тестировщиков](pdf/certificateJAVA.pdf)  
 [Автоматизированное тестирование](https://github.com/AshurMezan/AshurMezan/blob/main/pdf/AutoTest.pdf)   
 
