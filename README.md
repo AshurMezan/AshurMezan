@@ -5,14 +5,27 @@
 
 # Контакты
      
-Email: lion2217@outlook.com 
+Email: lion2217@outlook.com   
 Telegram: https://t.me/ashurmezan
 
 # Портфолио
 
 ## Учебные проекты на курсах Нетологии
 
-1. [Курсовая работа по модулю "Ручное тестирование веб-приложений"](https://docs.google.com/spreadsheets/d/1UjjFNA7OT7kXurw8TPeNUZR19ra8ypgkY5rLDAOQs6k/edit#gid=0)
+1. [Дипломная работа профессии "Тестировщик"](https://github.com/AshurMezan/NETOLOGY-Diploma-QA)  
+   
+   В рамках дипломной работы:
+
+    - настроил систему докеризации приложения с поддержкой двух СУБД (MySQL и PostgreSQL)
+    - провел исследовательское тестирование функционала покупки тура веб-сервиса "Путешествие дня"
+    - создал план по автоматизации тестирования с 53 сценариями (16 API и 37 UI тестами)
+    - написал тестовый фреймворк для управления данными и проверки состояния БД, использую Faker, DBUtils
+    - автоматизировал 60 тестовых сценария (16 API и 44 UI), использую паттерн Page Object и фреймворки Selenide, REST Assured и Gson
+    - подключил и настроил систему CI (AppVeyor) так, чтобы тесты запускались с подключением SUT к обеим СУБД поочередно
+    - оформил 11 issue (отчёты о дефектах)
+    - составил отчет по результатам автоматизации с подключенным Allure
+
+2. [Курсовая работа по модулю "Ручное тестирование веб-приложений"](https://docs.google.com/spreadsheets/d/1UjjFNA7OT7kXurw8TPeNUZR19ra8ypgkY5rLDAOQs6k/edit#gid=0)
 
     В рамках курсовой по ручному тестированию сайта интернет-магазина https://henderson.ru/:
 
@@ -36,9 +49,10 @@ Telegram: https://t.me/ashurmezan
 [Git — система контроля версий](pdf/certificateGIT.pdf)
 
 ## Тренировка по HTML5 и CSS3
-
-[Первый макет](https://ashurmezan.github.io/Ashur-Mezan-Training-website/)  
-[Второй макет](https://ashurmezan.github.io/training-site-2/)
+  
+[Третий макет](https://ashurmezan.github.io/HTML-and-CSS-maket-3/)  
+[Второй макет](https://ashurmezan.github.io/training-site-2/)  
+[Первый макет](https://ashurmezan.github.io/Ashur-Mezan-Training-website/)
 
 ## Тренировка по python
 [Консольное приложение ToDo](https://github.com/AshurMezan/python-TuDo)
