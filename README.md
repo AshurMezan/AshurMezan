@@ -55,7 +55,7 @@ Telegram: https://t.me/ashurmezan
 [Первый макет](https://ashurmezan.github.io/Ashur-Mezan-Training-website/)
 
 ## Тренировка по python
-[Вырезаем аудиодорожку из видеоролика](https://github.com/AshurMezan/radioman-2)
+[Вырезаем аудиодорожку из видеоролика](https://github.com/AshurMezan/radioman-2)  
 [Консольное приложение ToDo](https://github.com/AshurMezan/python-TuDo)
 
 ## Тренировка по java
