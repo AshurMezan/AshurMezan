@@ -50,7 +50,7 @@ Telegram: https://t.me/ashurmezan
 
 ## Тренировка по HTML5 и CSS3
   
-[Четвёртый макет](https://ashurmezan.github.io/Fourth-layout-HTML-and-CSS/)  
+[Четвёртый макет](https://ashurmezan.github.io/layout_four_html_css_js/)  
 [Калькулятор](https://ashurmezan.github.io/Calculator-HTML-CSS-JS/)  
 [Третий макет](https://ashurmezan.github.io/HTML-and-CSS-maket-3/)  
 [Второй макет](https://ashurmezan.github.io/training-site-2/)  
