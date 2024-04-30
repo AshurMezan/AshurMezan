@@ -1,7 +1,7 @@
 # Обо мне
 
 Добрый день!  
-Я, Лев Гуляев, начинающий тестировщик. Знаком с java и python, в свободное время практикуюсь в вёрстке.
+Я, Лев Гуляев, начинающий тестировщик. Знаком с javascript и python, в свободное время практикуюсь в вёрстке.
 
 # Контакты
      
@@ -50,6 +50,8 @@ Telegram: https://t.me/ashurmezan
 
 ## Тренировка по HTML5 и CSS3
   
+[Шестой макет](https://ashurmezan.github.io/Loft-House/)  
+[Пятый макет](https://ashurmezan.github.io/Kelvinweb/)  
 [Четвёртый макет](https://ashurmezan.github.io/layout_four_html_css_js/)  
 [Калькулятор](https://ashurmezan.github.io/Calculator-HTML-CSS-JS/)  
 [Третий макет](https://ashurmezan.github.io/HTML-and-CSS-maket-3/)  
