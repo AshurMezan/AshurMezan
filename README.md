@@ -55,6 +55,7 @@ Telegram: https://t.me/ashurmezan
 [QR-код](https://github.com/AshurMezan/testForQR-codeonJavaScript)  
 [Меняем тему фона](https://github.com/AshurMezan/colors-for-background)  
 [Таймер для «Чёрной пятницы»](https://github.com/AshurMezan/Timer-for-Black-Friday)  
+[На JavaScript практикуюсь с API](https://github.com/AshurMezan/JavaScript-for-API)  
 [Форма обратной связи](https://github.com/AshurMezan/server-for-feedback-form)  
 
 ## Тренировка по HTML5 и CSS3
