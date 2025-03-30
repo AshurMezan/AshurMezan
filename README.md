@@ -52,16 +52,13 @@ Telegram: https://t.me/ashurmezan
   
 [Шестой макет](https://ashurmezan.github.io/Loft-House/)  
 [Пятый макет](https://ashurmezan.github.io/Kelvinweb/)  
-[Четвёртый макет](https://ashurmezan.github.io/layout_four_html_css_js/)  
-[Калькулятор](https://ashurmezan.github.io/Calculator-HTML-CSS-JS/)  
+[Четвёртый макет](https://ashurmezan.github.io/layout_four_html_css_js/) 
 [Третий макет](https://ashurmezan.github.io/HTML-and-CSS-maket-3/)  
 [Второй макет](https://ashurmezan.github.io/training-site-2/)  
 [Первый макет](https://ashurmezan.github.io/Ashur-Mezan-Training-website/)
 
 ## Тренировка по python
-[Вырезаем аудиодорожку из видеоролика](https://github.com/AshurMezan/radioman-2)  
-[Консольное приложение ToDo](https://github.com/AshurMezan/python-TuDo)
+[Вырезаем аудиодорожку из видеоролика](https://github.com/AshurMezan/radioman-2)
 
 ## Тренировка по java
-[Калькулятор](https://github.com/AshurMezan/java-calculator)  
 [Сканер QR-кодов](https://github.com/AshurMezan/android-studio-scanner-QR-cod)
