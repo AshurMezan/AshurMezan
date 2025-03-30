@@ -48,14 +48,23 @@ Telegram: https://t.me/ashurmezan
 [HTML и CSS для тестировщиков](pdf/HTMLandCSS.pdf)  
 [Git — система контроля версий](pdf/certificateGIT.pdf)
 
+## Тренировка по JavaScript
+  
+[Слайдеры](https://github.com/AshurMezan/educational_slider)  
+[Аккардион](https://github.com/AshurMezan/Accordion)  
+[QR-код](https://github.com/AshurMezan/testForQR-codeonJavaScript)  
+[Меняем тему фона](https://github.com/AshurMezan/colors-for-background)  
+[Таймер для «Чёрной пятницы»](https://github.com/AshurMezan/Timer-for-Black-Friday)  
+[Форма обратной связи](https://github.com/AshurMezan/server-for-feedback-form)  
+
 ## Тренировка по HTML5 и CSS3
   
 [Шестой макет](https://ashurmezan.github.io/Loft-House/)  
 [Пятый макет](https://ashurmezan.github.io/Kelvinweb/)  
-[Четвёртый макет](https://ashurmezan.github.io/layout_four_html_css_js/) 
+[Четвёртый макет](https://ashurmezan.github.io/layout_four_html_css_js/)  
 [Третий макет](https://ashurmezan.github.io/HTML-and-CSS-maket-3/)  
 [Второй макет](https://ashurmezan.github.io/training-site-2/)  
-[Первый макет](https://ashurmezan.github.io/Ashur-Mezan-Training-website/)
+[Первый макет](https://ashurmezan.github.io/Ashur-Mezan-Training-website/)  
 
 ## Тренировка по python
 [Вырезаем аудиодорожку из видеоролика](https://github.com/AshurMezan/radioman-2)
