@@ -61,12 +61,12 @@ Telegram: https://t.me/ashurmezan
 
 ## Тренировка по HTML5 и CSS3
   
-[Шестой макет](https://ashurmezan.github.io/Loft-House/)  
-[Пятый макет](https://ashurmezan.github.io/Kelvinweb/)  
-[Четвёртый макет](https://ashurmezan.github.io/layout_four_html_css_js/)  
-[Третий макет](https://ashurmezan.github.io/HTML-and-CSS-maket-3/)  
-[Второй макет](https://ashurmezan.github.io/training-site-2/)  
-[Первый макет](https://ashurmezan.github.io/Ashur-Mezan-Training-website/)  
+[Шестой макет](https://ashurmezan.github.io/paralax-one/)  
+[Пятый макет](https://ashurmezan.github.io/psychology/)  
+[Четвёртый макет](https://ashurmezan.github.io/Loft-House/)  
+[Третий макет](https://ashurmezan.github.io/Kelvinweb/)  
+[Второй макет](https://ashurmezan.github.io/HTML-and-CSS-maket-3/)  
+[Первый макет](https://ashurmezan.github.io/training-site-2/)  
 
 ## Тренировка по python
 [Вырезаем аудиодорожку из видеоролика](https://github.com/AshurMezan/radioman-2)
