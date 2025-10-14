@@ -51,6 +51,7 @@ Telegram: https://t.me/ashurmezan
 ## Тренировка по JavaScript
 
 [Телеграм-бот для обратной связи](https://github.com/AshurMezan/telegram-feedback-bot?tab=readme-ov-file#readme)  
+[Прогноз погоды в крупных городах России](https://github.com/AshurMezan/meteogis)  
 [Слайдеры](https://github.com/AshurMezan/educational_slider)  
 [Аккардион](https://github.com/AshurMezan/Accordion)  
 [QR-код](https://github.com/AshurMezan/testForQR-codeonJavaScript)  
